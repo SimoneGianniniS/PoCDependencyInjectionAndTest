@@ -1,0 +1,6 @@
+@PoCDependecyInjection_HostAddress = http://localhost:5151
+
+GET {{PoCDependecyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
